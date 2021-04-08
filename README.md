@@ -14,4 +14,5 @@ For Logic:
 3. Hydrated Bloc is used to store the current counter state in the storage of the app in JSON format.
 4. Path Provider is used to get the current storage path.
 
-![sss](https://github.com/farhan86/farhan86/blob/main/screen-20210408-233829_2.gif)
+<img src="https://github.com/farhan86/farhan86/blob/main/screen-20210408-233829_2.gif" width="40%" height="40%">
+
