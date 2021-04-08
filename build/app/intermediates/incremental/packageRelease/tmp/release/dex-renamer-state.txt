@@ -1,0 +1,4 @@
+#Thu Apr 08 22:25:59 BDT 2021
+base.0=E\:\\VSCode projects\\BlocArchitectureStartupProject-main\\CounterEvolved\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
