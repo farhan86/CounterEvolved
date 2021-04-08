@@ -1,9 +1,6 @@
 # CounterEvolved
 The leveled up default counter app from flutter. This app is just to showcase how bloc is implemented and how storing the state with Hydrated Bloc, we can have persistant state even after restarting the app.
 
-
-![sss](https://user-images.githubusercontent.com/18053298/114075512-6ed07080-98c7-11eb-9edc-3127bd9b3dbf.gif)
-
 For UI:
 1. Light and dark theme is implemented. Depending on the system theme, it changes automatically.
 2. For the fluid background, simple_animations package is used.
@@ -16,3 +13,5 @@ For Logic:
 1. Bloc is used. Since the logic is simple enough, only cubits were needed to implement the state changes.
 3. Hydrated Bloc is used to store the current counter state in the storage of the app in JSON format.
 4. Path Provider is used to get the current storage path.
+
+![sss](https://github.com/farhan86/farhan86/blob/main/screen-20210408-233829_2.gif)
