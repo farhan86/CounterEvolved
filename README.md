@@ -1,5 +1,5 @@
 # CounterEvolved
-The leveled up default counter app from flutter. This app is just to showcase how bloc is implemented and how storing the state with Hydrated Bloc, we can have persistant state ever after restarting the app.
+The leveled up default counter app from flutter. This app is just to showcase how bloc is implemented and how storing the state with Hydrated Bloc, we can have persistant state even after restarting the app.
 
 For UI:
 1. Light and dark theme is implemented. Depending on the system theme, it changes automatically.
