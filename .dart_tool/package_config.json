@@ -428,13 +428,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "bloc_architecture_app",
+      "name": "counter_evolved",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-04-08T15:16:41.997719Z",
+  "generated": "2021-04-17T19:14:08.557972Z",
   "generator": "pub",
   "generatorVersion": "2.13.0-125.0.dev"
 }

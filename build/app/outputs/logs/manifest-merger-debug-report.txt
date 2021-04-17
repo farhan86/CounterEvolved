@@ -5,19 +5,21 @@ INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvol
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:1:1-47:12
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:1:1-47:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:shared_preferences] E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\bc4afd80dc0f1e778f503b2b73098699\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\8647cbbcf252f8d2f0fa4964d74960cc\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\5364ab889c54507f1a369590ee8ad1a8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\f429bcabce1111d20b1ecb55321e9ab7\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\0a1d67af67ac2b69c607dd1e038f8eb9\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\2c8f672ff879eb46d5b97b42e8a106cc\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\35641475d9c5edb01760a223274dfca8\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\627399433cb04a660cf7b6a12aa85656\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\80acf4ced0b9cbcc5b78194938e55693\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\c6dce57d48fb3191524f5ccb294d9ceb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\41fe674787ee8bb6d87ba7c589551294\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3849ae6ef251937da2dbc8bfd52f442d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\ae0cf0b2fc26b779e0c9b290b3139314\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -37,14 +39,14 @@ INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvol
 		ADDED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:1:11-69
 application
 ADDED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:8:5-46:19
-MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\2c8f672ff879eb46d5b97b42e8a106cc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\2c8f672ff879eb46d5b97b42e8a106cc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3849ae6ef251937da2dbc8bfd52f442d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3849ae6ef251937da2dbc8bfd52f442d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\2c8f672ff879eb46d5b97b42e8a106cc\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:10:9-46
+		ADDED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:10:9-40
 	android:icon
 		ADDED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml:11:9-43
 	android:name
@@ -95,32 +97,36 @@ uses-sdk
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\main\AndroidManifest.xml
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:shared_preferences] E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\bc4afd80dc0f1e778f503b2b73098699\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\bc4afd80dc0f1e778f503b2b73098699\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\8647cbbcf252f8d2f0fa4964d74960cc\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\8647cbbcf252f8d2f0fa4964d74960cc\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\5364ab889c54507f1a369590ee8ad1a8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\5364ab889c54507f1a369590ee8ad1a8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\f429bcabce1111d20b1ecb55321e9ab7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\f429bcabce1111d20b1ecb55321e9ab7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\0a1d67af67ac2b69c607dd1e038f8eb9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\0a1d67af67ac2b69c607dd1e038f8eb9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\2c8f672ff879eb46d5b97b42e8a106cc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\2c8f672ff879eb46d5b97b42e8a106cc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\35641475d9c5edb01760a223274dfca8\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\35641475d9c5edb01760a223274dfca8\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\627399433cb04a660cf7b6a12aa85656\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\627399433cb04a660cf7b6a12aa85656\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\80acf4ced0b9cbcc5b78194938e55693\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\80acf4ced0b9cbcc5b78194938e55693\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\c6dce57d48fb3191524f5ccb294d9ceb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\c6dce57d48fb3191524f5ccb294d9ceb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\41fe674787ee8bb6d87ba7c589551294\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\41fe674787ee8bb6d87ba7c589551294\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3849ae6ef251937da2dbc8bfd52f442d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\3849ae6ef251937da2dbc8bfd52f442d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\ae0cf0b2fc26b779e0c9b290b3139314\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\joeyl\.gradle\caches\transforms-2\files-2.1\ae0cf0b2fc26b779e0c9b290b3139314\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\debug\AndroidManifest.xml
 INJECTED from E:\VSCode projects\BlocArchitectureStartupProject-main\CounterEvolved\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
